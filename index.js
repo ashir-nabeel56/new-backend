@@ -14,7 +14,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-// Serverless Safety: Async DB Connection
+// Lazy-connect DB on incoming request
 let isConnected = false;
 app.use(async (req, res, next) => {
   if (!isConnected) {
