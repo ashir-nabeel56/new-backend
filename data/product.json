@@ -1,0 +1,295 @@
+{
+  "newArrivals": [
+    {
+      "id": 1,
+      "title": "T-shirt with Tape Details",
+      "price": 120,
+      "oldPrice": null,
+      "rating": 4.5,
+      "imageUrl": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=500"
+    },
+    {
+      "id": 2,
+      "title": "Skinny Fit Jeans",
+      "price": 240,
+      "oldPrice": 260,
+      "rating": 4.3,
+      "imageUrl": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=500"
+    },
+    {
+      "id": 3,
+      "title": "Checkered Shirt",
+      "price": 180,
+      "oldPrice": null,
+      "rating": 4.7,
+      "imageUrl": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=500"
+    },
+    {
+      "id": 4,
+      "title": "Sleeve Striped T-shirt",
+      "price": 130,
+      "oldPrice": 160,
+      "rating": 4.6,
+      "imageUrl": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=500"
+    },
+    {
+      "id": 9,
+      "title": "Oversized Cotton T-shirt",
+      "price": 110,
+      "oldPrice": null,
+      "rating": 4.4,
+      "imageUrl": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?w=500"
+    },
+    {
+      "id": 10,
+      "title": "Classic Denim Jacket",
+      "price": 190,
+      "oldPrice": 220,
+      "rating": 4.8,
+      "imageUrl": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=500"
+    },
+    {
+      "id": 11,
+      "title": "Relaxed Fit Hoodie",
+      "price": 175,
+      "oldPrice": null,
+      "rating": 4.5,
+      "imageUrl": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500"
+    },
+    {
+      "id": 12,
+      "title": "Slim Fit Casual Shirt",
+      "price": 155,
+      "oldPrice": 180,
+      "rating": 4.6,
+      "imageUrl": "https://images.unsplash.com/photo-1603252110481-7ba873bf42ab?w=500"
+    },
+    {
+      "id": 13,
+      "title": "Premium Polo Shirt",
+      "price": 145,
+      "oldPrice": null,
+      "rating": 4.7,
+      "imageUrl": "https://images.unsplash.com/photo-1625910513413-5fc45d7b7b48?w=500"
+    },
+    {
+      "id": 14,
+      "title": "Cargo Relaxed Pants",
+      "price": 195,
+      "oldPrice": 225,
+      "rating": 4.4,
+      "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=500"
+    }
+  ],
+  "topSelling": [
+    {
+      "id": 5,
+      "title": "Vertical Striped Shirt",
+      "price": 212,
+      "oldPrice": 232,
+      "rating": 5.0,
+      "imageUrl": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?w=500"
+    },
+    {
+      "id": 6,
+      "title": "Courage Graphic T-shirt",
+      "price": 145,
+      "oldPrice": null,
+      "rating": 4.0,
+      "imageUrl": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=500"
+    },
+    {
+      "id": 7,
+      "title": "Loose Fit Bermuda Shorts",
+      "price": 80,
+      "oldPrice": null,
+      "rating": 3.0,
+      "imageUrl": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=500"
+    },
+    {
+      "id": 8,
+      "title": "Faded Skinny Jeans",
+      "price": 210,
+      "oldPrice": null,
+      "rating": 4.5,
+      "imageUrl": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=500"
+    },
+    {
+      "id": 15,
+      "title": "Basic Black T-shirt",
+      "price": 95,
+      "oldPrice": 120,
+      "rating": 4.6,
+      "imageUrl": "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=500"
+    },
+    {
+      "id": 16,
+      "title": "Classic White Shirt",
+      "price": 165,
+      "oldPrice": null,
+      "rating": 4.8,
+      "imageUrl": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=500"
+    },
+    {
+      "id": 17,
+      "title": "Relaxed Denim Jeans",
+      "price": 225,
+      "oldPrice": 250,
+      "rating": 4.5,
+      "imageUrl": "https://images.unsplash.com/photo-1548883354-94bcfe321cbb?w=500"
+    },
+    {
+      "id": 18,
+      "title": "Casual Bomber Jacket",
+      "price": 280,
+      "oldPrice": 320,
+      "rating": 4.7,
+      "imageUrl": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=500"
+    },
+    {
+      "id": 19,
+      "title": "Minimalist Sweatshirt",
+      "price": 150,
+      "oldPrice": null,
+      "rating": 4.3,
+      "imageUrl": "https://images.unsplash.com/photo-1578681994506-b8f463449011?w=500"
+    },
+    {
+      "id": 20,
+      "title": "Straight Leg Trousers",
+      "price": 185,
+      "oldPrice": 210,
+      "rating": 4.6,
+      "imageUrl": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=500"
+    }
+  ],"youMightAlsoLike": [
+  {
+    "id": 21,
+    "title": "Polo with Contrast Trims",
+    "price": 212,
+    "oldPrice": 242,
+    "rating": 4.0,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRyVurfAuGUflUL6SJuuSCvpgJg0dG6_NvrPdsYH3o4Q&s=10"
+  },
+  {
+    "id": 22,
+    "title": "Gradient Graphic T-shirt",
+    "price": 145,
+    "oldPrice": null,
+    "rating": 3.5,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZE7Y3LzzqtN_3YGwiFIENFL6ZRmUWolfAEJ2Q87QgPA&s=10"
+  },
+  {
+    "id": 23,
+    "title": "Polo with Tipping Details",
+    "price": 180,
+    "oldPrice": null,
+    "rating": 4.5,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6a52kM83qNHARHbOxz9qT8_RudQ5Nfhfop1u0jsSoQQ&s=10"
+  },
+  {
+    "id": 24,
+    "title": "Black Striped T-shirt",
+    "price": 120,
+    "oldPrice": 150,
+    "rating": 5.0,
+    "imageUrl": "https://tiimg.tistatic.com/fp/1/008/397/mens-striped-long-sleeve-black-with-white-o-neck-cotton-t-shirt-384.jpg"
+  }
+],
+  "casual": [
+    {
+      "id": "c1",
+      "title": "Gradient Graphic T-shirt",
+      "price": 145,
+      "originalPrice": 180,
+      "discount": "-20%",
+      "rating": 4.5,
+      "imageUrl": "https://via.placeholder.com/300x400",
+      "description": "Casual daily wear t-shirt with modern graphic design.",
+      "category": "casual"
+    },
+    {
+      "id": "c2",
+      "title": "Polo with Contrast Trims",
+      "price": 212,
+      "originalPrice": 242,
+      "discount": "-12%",
+      "rating": 4.0,
+      "imageUrl": "https://via.placeholder.com/300x400",
+      "description": "Classic fit polo shirt ideal for relaxed weekend outings.",
+      "category": "casual"
+    }
+  ],
+  "formal": [
+    {
+      "id": "f1",
+      "title": "Classic Fit Formal Shirt",
+      "price": 260,
+      "originalPrice": 300,
+      "discount": "-15%",
+      "rating": 4.8,
+      "imageUrl": "https://via.placeholder.com/300x400",
+      "description": "Premium cotton formal shirt suitable for office and business events.",
+      "category": "formal"
+    },
+    {
+      "id": "f2",
+      "title": "Tailored Formal Trousers",
+      "price": 310,
+      "originalPrice": 350,
+      "discount": "-10%",
+      "rating": 4.6,
+      "imageUrl": "https://via.placeholder.com/300x400",
+      "description": "Slim fit formal trousers designed for maximum comfort and style.",
+      "category": "formal"
+    }
+  ],
+  "party": [
+    {
+      "id": "p1",
+      "title": "Black Velvet Party Blazer",
+      "price": 450,
+      "originalPrice": 500,
+      "discount": "-10%",
+      "rating": 4.9,
+      "imageUrl": "https://via.placeholder.com/300x400",
+      "description": "Elegant velvet blazer crafted for special occasions and evening parties.",
+      "category": "party"
+    },
+    {
+      "id": "p2",
+      "title": "Printed Silk Party Shirt",
+      "price": 190,
+      "originalPrice": 220,
+      "discount": "-13%",
+      "rating": 4.4,
+      "imageUrl": "https://via.placeholder.com/300x400",
+      "description": "Smooth silk fabric shirt with trendy party prints.",
+      "category": "party"
+    }
+  ],
+  "gym": [
+    {
+      "id": "g1",
+      "title": "Dry-Fit Training T-Shirt",
+      "price": 85,
+      "originalPrice": 100,
+      "discount": "-15%",
+      "rating": 4.7,
+      "imageUrl": "https://via.placeholder.com/300x400",
+      "description": "Breathable moisture-wicking t-shirt for intense workout sessions.",
+      "category": "gym"
+    },
+    {
+      "id": "g2",
+      "title": "Pro Performance Gym Joggers",
+      "price": 120,
+      "originalPrice": 150,
+      "discount": "-20%",
+      "rating": 4.6,
+      "imageUrl": "https://via.placeholder.com/300x400",
+      "description": "Stretchable and durable joggers built for active training.",
+      "category": "gym"
+    }
+  ]
+}
