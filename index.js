@@ -1,20 +1,33 @@
 const express = require("express");
 const cors = require("cors");
 const dotenv = require("dotenv");
-
 const authRoutes = require("./routes/authRoutes");
 const productRoutes = require("./routes/productRoutes");
 const connectDB = require("./config/db");
 
-dotenv.config();
+if (process.env.NODE_ENV !== "production") {
+  dotenv.config();
+}
 
 const app = express();
 
 app.use(cors());
 app.use(express.json());
 
-// MongoDB
-connectDB();
+// Serverless Safety: Async DB Connection
+let isConnected = false;
+app.use(async (req, res, next) => {
+  if (!isConnected) {
+    try {
+      await connectDB();
+      isConnected = true;
+    } catch (err) {
+      console.error("Database Connection Failed:", err);
+      return res.status(500).json({ error: "Database connection failed" });
+    }
+  }
+  next();
+});
 
 // Routes
 app.use("/auth", authRoutes);
@@ -25,11 +38,4 @@ app.get("/", (req, res) => {
   res.send("E-Commerce Backend is running");
 });
 
-// Server start
-const PORT = process.env.PORT || 5000;
-app.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
-});
-
-// IMPORTANT: Vercel ke liye app export karo
 module.exports = app;
